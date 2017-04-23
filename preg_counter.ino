@@ -36,7 +36,6 @@ For the NTP Client:
 
 #if defined(ESP8266)
 #define __CS1   16  //(D0)
-#define __CS2   4   //(D2)
 #define __DC    5   //(D1)
 #else
 #define __CS1   10//10
