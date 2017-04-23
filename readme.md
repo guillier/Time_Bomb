@@ -18,7 +18,8 @@ Hardware used :
 
 ![Breadboard](time_bomb_bb.jpg)
 
-* http://www.guillier.org/blog/2017/04/time-bomb/
+
+Corresponding blog entry: http://www.guillier.org/blog/2017/04/time-bomb/
 
 
 
